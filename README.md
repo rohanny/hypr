@@ -11,4 +11,6 @@ cd dotfiles
 ln -sf ~/dotfiles/fish ~/.config/fish
 ln -sf ~/dotfiles/alacritty ~/.config/alacritty
 ln -sf ~/dotfiles/starship.toml ~/.config/starship.toml
+ln -sf ~/dotfiles/vscode/settings.json ~/.config/Code/User/settings.json
+ln -sf ~/dotfiles/vscode/keybindings.json ~/.config/Code/User/keybindings.json
 ```
